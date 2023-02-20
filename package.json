@@ -1,0 +1,22 @@
+{
+  "name": "devlinks",
+  "version": "1.0.0",
+  "description": "DevLinks by Diguya",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && npm run build:cp-public",
+    "build:cp-public": "cp ./public/** ./dist",
+    "type": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiguyaDeveloper/rocketseat-devlinks-frontend.git"
+  },
+  "author": "DiguyaDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiguyaDeveloper/rocketseat-devlinks-frontend/issues"
+  },
+  "homepage": "https://github.com/DiguyaDeveloper/rocketseat-devlinks-frontend#readme"
+}
