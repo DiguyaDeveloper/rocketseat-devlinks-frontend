@@ -4,8 +4,7 @@
   "description": "DevLinks by Diguya",
   "main": "index.js",
   "scripts": {
-    "build": "tsc && npm run build:cp-public",
-    "build:cp-public": "cp ./public/** ./dist",
+    "build": "tsc -w",
     "type": "tsc --noEmit",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
