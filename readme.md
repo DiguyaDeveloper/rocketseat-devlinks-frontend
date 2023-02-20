@@ -16,16 +16,6 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://www.javascript.com/)
 
-## 🚀 Como executar
-
-Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
-
-Acesse a documentação de cada projeto:
-
-- [Backend](./server/README.md)
-- [Web](./web/README.md)
-- [Mobile](./mobile/README.md)
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
